@@ -1,6 +1,6 @@
 {
     "app_id": "com.muhas.moodlemobileapp",
-    "appname": "MUHAS ELMS",
+    "appname": "MUHAS E-Learning",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
     "versionname": "3.6",
@@ -63,8 +63,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://elms.muhas.ac.tz",
-    "sitename": "MUHAS ELMS",
+    "siteurl": "https://soma.muhas.ac.tz",
+    "sitename": "MUHAS E-Learning",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
